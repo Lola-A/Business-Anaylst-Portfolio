@@ -18,8 +18,10 @@ Certified in Google Data Analytics and currently pursuing the IIBA ECBA certific
 ---
 
 ## 📜 Certifications
-- Google Data Analytics Certificate (Coursera)  
-- IIBA ECBA (In Progress)   
+- Google Data Analytics Professional Certificate – *Coursera (2025)*  
+- Google Business Intelligence Professional Certificate – *Coursera*  
+- IBM IT Scrum Master Professional Certificate *(In Progress)*  
+- IIBA Entry Certificate in Business Analysis (ECBA) *(In Progress)*  
 
 ---
 
